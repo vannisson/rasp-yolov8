@@ -1,0 +1,6 @@
+train: C:\Users\geova\repos\DMC\yolov8_custom\train
+val: C:\Users\geova\repos\DMC\yolov8_custom\val
+
+nc: 5
+
+names: ["one", "two", "three", "four", "five"]
